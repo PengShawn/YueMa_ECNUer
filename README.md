@@ -5,7 +5,7 @@
 ### 详情内容请扫码体验(如未显示图片请点击链接)
 ![微信扫一扫](https://img-blog.csdnimg.cn/2020072820590018.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyODg3MDgy,size_16,color_FFFFFF,t_70)
 
-> 这个项目为我和余鑫，Mrhuo928三人共同开发完成
+> 这个项目为我和余鑫，Mrhuo928三人共同开发完成。采用了微信云开发技术完成。
 
 社区_动态分享
 ![社区_动态分享](https://img-blog.csdnimg.cn/20200728210823411.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyODg3MDgy,size_16,color_FFFFFF,t_70)
